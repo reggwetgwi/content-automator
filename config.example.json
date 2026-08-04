@@ -1,0 +1,8 @@
+{
+  "interval": 30,
+  "limit": 1,
+  "test_mode": true,
+  "caption": "",
+  "prompt": "Combine the two reference images: keep the subject from the first image unchanged and place it into the scene, lighting and composition of the second image. Photorealistic result, no stylization.",
+  "reference": "example-reference.jpg"
+}
